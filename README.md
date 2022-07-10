@@ -1,4 +1,4 @@
-# Handwritten Captcha Recognition
+# Handwritten Emoji Captcha Recognition
    
 ## Steps to test the model:
 - Mention the image path in cv2.imread() in [final.ipynb](https://github.com/san2130/Mosaic-22/blob/main/final.ipynb) and then run it.
